@@ -15,8 +15,8 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Avaliação / Atividade     | Descrição               | Pontos   | Data prevista  | Realizada?  |
 |---------------------------|-------------------------|----------|----------------|-------------|
-| Avaliação                 | Análise Descritiva      | 6,0      | 04/07/2025     | ✅          |
-| Atividade (grupo)         | Análise Descritiva      | 2,0      | 27/06/2025     | ✅          |
+| Avaliação                 | <DEFINIR>               | 6,0      | <DEFINIR>      | ◻️          |
+| Atividade (grupo)         | <DEFINIR>               | 4,0      | <DEFINIR>      | ◻️          |
 | **Total**                 |                         | **10,0** |                |             |
 
 ---
@@ -25,8 +25,8 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Recuperação               | Descrição                      | Pontos   | Data prevista | Realizada? |
 |---------------------------|--------------------------------|----------|----------------|-----------|
-| Avaliação                 |                                | 6,0      | <DEFINIR>      | ⬜        |
-| Atividade                 |                                | 4,0      | <DEFINIR>      | ⬜        |
+| Avaliação                 | <DEFINIR>                      | 6,0      | <DEFINIR>      | ⬜        |
+| Atividade                 | <DEFINIR>                      | 4,0      | <DEFINIR>      | ⬜        |
 | **Total**                 |                                | **10,0** |                |           |
 
 ---
