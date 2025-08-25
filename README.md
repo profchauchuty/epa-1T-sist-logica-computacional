@@ -33,9 +33,9 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 ## 🧪 Conteúdos
 
-| Aula | Nome da Aula              | Link                                                            |
-|------|---------------------------|-----------------------------------------------------------------|
-
+| Nome da Aula              | Link                                                            |
+|---------------------------|-----------------------------------------------------------------|
+| Operadores Lógicos        | [https://dicasdeprogramacao.com.br/operadores-logicos/](https://dicasdeprogramacao.com.br/operadores-logicos/)
 ---
 
 - A entrega fora do prazo ou plágio resultará em penalidades conforme regimento escolar.
