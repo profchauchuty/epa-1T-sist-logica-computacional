@@ -1,7 +1,8 @@
 # 📘 Disciplina: Lógica Computacional
 
-**Turma:** 1ª Ano - Manhã - T  
-**Professor:** Cesar M. Chauchuty  
+**Turma:** 1ª Ano - Manhã - T
+**Semestre**: 3º Semestre
+**Professor:** Cesar M. Chauchuty
 **Curso:** Técnico em Desenvolvimento de Sistemas  
 **Instituição:** Colégio Estadual Dr. Epaminondas N. Ribas
 
@@ -35,7 +36,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Nome da Aula              | Link                                                            |
 |---------------------------|-----------------------------------------------------------------|
-| Operadores Lógicos        | [https://dicasdeprogramacao.com.br/operadores-logicos/](https://dicasdeprogramacao.com.br/operadores-logicos/)
+| Operadores Lógicos        | [Acessar](https://dicasdeprogramacao.com.br/operadores-logicos/)
 ---
 
 - A entrega fora do prazo ou plágio resultará em penalidades conforme regimento escolar.
