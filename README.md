@@ -1,7 +1,7 @@
 # 📘 Disciplina: Lógica Computacional
 
 **Turma:** 1ª Ano - Manhã - T
-**Semestre**: 3º Semestre
+**Semestre:** 3º Semestre
 **Professor:** Cesar M. Chauchuty
 **Curso:** Técnico em Desenvolvimento de Sistemas  
 **Instituição:** Colégio Estadual Dr. Epaminondas N. Ribas
