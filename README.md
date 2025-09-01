@@ -14,11 +14,11 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 ### Avaliações e Atividades
 
-| Avaliação / Atividade     | Descrição               | Pontos   | Data prevista  | Realizada?  |
-|---------------------------|-------------------------|----------|----------------|-------------|
-| Avaliação                 | <DEFINIR>               | 6,0      | <DEFINIR>      | ◻️          |
-| Atividade (grupo)         | <DEFINIR>               | 4,0      | <DEFINIR>      | ◻️          |
-| **Total**                 |                         | **10,0** |                |             |
+| Avaliação / Atividade     | Descrição                        | Pontos   | Data prevista  | Realizada?  |
+|---------------------------|----------------------------------|----------|----------------|-------------|
+| Avaliação                 | Prova Objetiva                   | 6,0      | 18/11/2025     | ◻️          |
+| Atividade (grupo)         | 50% Apresentação / 50% Relatório | 4,0      | 15/09/2025     | ◻️          |
+| **Total**                 |                                  | **10,0** |                |             |
 
 ---
 
@@ -26,8 +26,8 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Recuperação               | Descrição                      | Pontos   | Data prevista | Realizada? |
 |---------------------------|--------------------------------|----------|----------------|-----------|
-| Avaliação                 | <DEFINIR>                      | 6,0      | <DEFINIR>      | ⬜        |
-| Atividade                 | <DEFINIR>                      | 4,0      | <DEFINIR>      | ⬜        |
+| Avaliação                 | Prova Objetiva                 | 6,0      | 24/11/2025     | ⬜        |
+| Atividade                 | Trabalho                       | 4,0      | 25/11/2025     | ⬜        |
 | **Total**                 |                                | **10,0** |                |           |
 
 ---
