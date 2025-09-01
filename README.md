@@ -36,7 +36,8 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Nome da Aula              | Link                                                            |
 |---------------------------|-----------------------------------------------------------------|
-| Operadores Lógicos        | [Acessar](https://dicasdeprogramacao.com.br/operadores-logicos/)
+| Operadores Lógicos        | [Acessar](https://dicasdeprogramacao.com.br/operadores-logicos/) |
+| Operadores Lógicos        | [Acessar]([https://dicasdeprogramacao.com.br/operadores-logicos/](https://github.com/profchauchuty/epa-1T-sist-logica-computacional/blob/main/files/operadores-logicos.jpg?raw=true)) |
 ---
 
 - A entrega fora do prazo ou plágio resultará em penalidades conforme regimento escolar.
