@@ -27,7 +27,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | Recuperação               | Descrição                      | Pontos   | Data prevista | Realizada? |
 |---------------------------|--------------------------------|----------|----------------|-----------|
 | Avaliação                 | Prova Objetiva                 | 6,0      | 24/11/2025     | ⬜        |
-| Atividade                 | Trabalho                       | 4,0      | 25/11/2025     | ⬜        |
+| Atividade                 | <DEFINIR>                      | 4,0      | 25/11/2025     | ⬜        |
 | **Total**                 |                                | **10,0** |                |           |
 
 ---
